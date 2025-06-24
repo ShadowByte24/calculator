@@ -1,0 +1,37 @@
+*{
+    background: rgb(240, 197, 233);
+}
+
+#calculator{
+    height: 26rem;
+    width: 20rem;
+    border: 1px black solid;
+    margin: auto;
+    margin-top: 7rem;
+    background: rgb(7, 117, 190);
+}
+
+#screen{
+    background: white;
+    height: 5rem;
+    margin: 1rem;
+}
+
+#buttons{
+    display:flex;
+    flex-wrap: wrap;
+    background: rgb(7, 117, 190);
+    justify-content: center;
+}
+
+.items{
+    margin:0.5rem;
+    height: 2.5rem;
+    width: 2.5rem;
+    padding:0.5rem;
+    background: rgb(170, 235, 253);
+    font-size: 1.5rem;
+    text-align: center;
+    
+}
+
