@@ -2,12 +2,17 @@
     background: rgb(240, 197, 233);
 }
 
+h1{
+    text-align: center;
+    font-size: 3rem;
+    background: rgb(224, 104, 194);
+}
+
 #calculator{
     height: 31rem;
     width: 20rem;
     border: 1px black solid;
     margin: auto;
-    margin-top: 7rem;
     background: rgb(7, 117, 190);
 }
 
@@ -19,7 +24,6 @@
     font-size: 3rem;
     text-align: center;
     padding-top: 0.75rem;
-    box-sizing: content-box;
 }
 
 #buttons{
@@ -30,7 +34,7 @@
 }
 
 #clr{
-    width:17.5rem;
+    width:13rem;
 }
 
 button{
